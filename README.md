@@ -1,6 +1,6 @@
 # 🚀 Real-Time Audio Scheduler - Voice AI Calling Chatbot Platform
 
-✅ **Production-grade Node.js System** integrating **Cartesia TTS API** + **TeleCMI Telephony** for **real-time voice streaming with 60ms audio scheduling**.
+✅ **Production-grade Node.js System** integrating **Cartesia TTS API** + **TeleCMI Telephony** for **real-time voice streaming with 60ms audio scheduling**. <br>
 ⚡ Built to prove real-world engineering skills in **real-time audio processing, WebSockets, async Node.js, error‑tolerant architectures, and telephony AI integration**.
 
 ---
@@ -18,9 +18,9 @@ A fully working real-time audio pipeline that:
 ```
 [Cartesia TTS Stream] → [Raw Audio Buffer] → [Repackaging Engine] → [60ms Scheduler] → [TeleCMI WebSocket]
 ```
-✅ Variable → Fixed chunk transformation
-✅ Timing‑safe transmission (setInterval drift‑resistant)
-✅ Error‑tolerant with retry + reconnect logic
+✅ Variable → Fixed chunk transformation <br>
+✅ Timing‑safe transmission (setInterval drift‑resistant) <br>
+✅ Error‑tolerant with retry + reconnect logic <br>
 
 ---
 ## ⚙️ Tech Stack & Specs
@@ -100,32 +100,32 @@ npm run demo
 
 ---
 ## 🛡️ Security
-✔️ API Keys stored in `.env` (gitignored)
-✔️ No key exposure in client side
-✔️ Graceful failure + safe shutdown
+✔️ API Keys stored in `.env` (gitignored) <br>
+✔️ No key exposure in client side <br>
+✔️ Graceful failure + safe shutdown <br>
 
 ---
 ## 📈 What This Project Proves About My Skills
-✅ Real‑time system design
-✅ Audio streaming + telephony familiarity
-✅ Low‑latency Node.js engineering
-✅ Networking + WebSockets + backpressure control
-✅ Production‑style code (logs, env, errors, config split)
-✅ Ability to build **assignment → full working product**
+✅ Real‑time system design <br>
+✅ Audio streaming + telephony familiarity <br>
+✅ Low‑latency Node.js engineering <br>
+✅ Networking + WebSockets + backpressure control <br>
+✅ Production‑style code (logs, env, errors, config split) <br>
+✅ Ability to build **assignment → full working product** <br>
 
 ---
 ## 🚀 Future Enhancements
-🔹 Voice Activity Detection (skip silence = save bandwidth)
-🔹 Prometheus metrics / Grafana dashboard
-🔹 Docker + CI/CD deployment
-🔹 Multi‑call concurrent scheduler support
+🔹 Voice Activity Detection (skip silence = save bandwidth) <br>
+🔹 Prometheus metrics / Grafana dashboard <br>
+🔹 Docker + CI/CD deployment <br>
+🔹 Multi‑call concurrent scheduler support <br>
 
 ---
 ## 👨‍💻 Author
-**Vivek Sharma**
-Full‑Stack Developer | Backend + Real‑Time Systems
-📧 vsharma87077@gmail.com
-🔗 GitHub: https://github.com/viveksharma
+**Vivek Sharma** <br>
+Full‑Stack Developer | Backend + Real‑Time Systems <br>
+📧 vsharma87077@gmail.com <br>
+🔗 GitHub: https://github.com/viveksharma <br>
 
 > _Built as part of technical hiring assignment — delivered as a production‑level Node.js system with full real‑time audio streaming._
 
