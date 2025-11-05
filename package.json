@@ -1,0 +1,17 @@
+{
+  "name": "real-time-audio-scheduler",
+  "version": "1.0.0",
+  "description": "Real-Time Audio Scheduler for Voice AI Calling Chatbot Platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node demo.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2",
+    "winston": "^3.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
